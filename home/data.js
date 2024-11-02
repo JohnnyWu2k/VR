@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-",
-      "name": "捷運忠孝復興站",
+      "name": "忠孝敦化",
       "levels": [
         {
           "tileSize": 256,
@@ -22,7 +22,7 @@ var APP_DATA = {
           "size": 2048
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 1344,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
